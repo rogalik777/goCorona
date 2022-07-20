@@ -153,6 +153,11 @@ body._lock {
     margin-right: 30px;
   }
 }
+@media (max-width: 767.98px) {
+  .menu__item {
+    margin-right: 0px;
+  }
+}
 .menu__link {
   font-family: "Raleway";
   font-style: normal;
